@@ -9,7 +9,7 @@ int auswahl();
 void anlegen();
 void anzeigen();
 void suchen();
-char dateiname[] = "C:\\Mist\\Artikel.dat";
+char dateiname[] = "Artikel.dat";
 
 int main()
 {
